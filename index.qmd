@@ -1,7 +1,76 @@
 ---
-title: "Comentari-de-Text"
+title: "Comentari de Text"
 ---
 
-This is a Quarto website.
+# Abans de començar
+- Numerar les línies de 5 en 5
+- Llegir el text amb atenció
+- Observar les característiques externes del text
+    - Títol
+    - Subratllats
+    - ...
+- Subratllar mots i frases claus
+- Determinar parts temàtiques
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+# Tema i Parts temàtiques
+
+Abans d'introduir el tema cal fer una breu introducció sobre el text que anem a comentar. Per a fer-la utilitzem informació de la cita final: autor, llibre, data de publicació...
+
+## Tema
+
+Sintagma nominal de 10 paraules com a màxim que respon a la pregunta: de què tracta el text? Dins no pot tindre verbs conjugats, però si formes personals (infinitiu, gerundi i participi).
+
+<div class="pl">
+Aquest text escrit per <input> al <input> presenta com a tema <input>.
+</div>
+
+## Parts Temàtiques
+
+- Cada part a d'anar en un paràgraf escrit
+- Fem resum de cada part, amb idees principals ~~Enumeració idees~~
+    - Idea completa (Subjecte + Verb + Complements)
+
+En l'assaig i l'article d'opinió n'hi ha tres parts: **Introducció, Desenvolupament y Conclusió**. A més el text literari no te pars determinades
+
+<div class="pl">
+Podem dividir el text en les següents parts bàsiques:
+
+La primera part que correspon al primer paràgraf i la idea principal és <input> (l x-y).
+
+La segona part que abasta <input> i la idea principal és <input> (l x-y).
+
+La tercera part que abraça l’últim paràgraf i la idea principal és <input> (l x-y).
+</div>
+
+### Conectors per a introduir les línies
+- Compren
+- Abraça
+- Abasta
+- Correspon
+
+# Estructura Externa
+
+## Títol
+
+Determinar la relació entre el títol i el tema del text
+
+- **Títol temàtic:** el títol correspon amb el tema del text, a més a d'incluir l'opinió del autor acerca del tema.
+- **Títol parcialment temátic:** té relació amb el tema però no completa
+- **Títol remátic:** no té cap relació amb el tema ni expressa l'opinió de l'autor. L'unic que tracta es de cridar l'atenció del lector per a que llija
+
+## Cos
+Cal esmentar el número de línies del text i de paragràfs que té el text
+
+## Cita final
+S'ha d'interpretar tota la infomació que hi aparega: autor, nom llibre,
+nom periòdic, lloc de publicació, editorial, data de publicació, pàgines d’on s’ha extret...
+
+<div class="pl">
+
+Aquest text escrit per <input> al diari <input> i publicat el dia  <input> consta de <input> línies distribuïdes en <input> paràgrafs. A més, presenta un títol:<select>
+<option>[Tria]</option>
+<option>
+TEMÀTIC car guarda una relació directa amb el tema del text.</option>
+<option>REMÀTIC car no guarda relació amb el tema del text.</option>
+<option> PARCIALMENT TEMÀTIC car guarda relació amb el tema del text però no és una </option>relació completa. </select>
+</div>

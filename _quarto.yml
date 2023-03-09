@@ -7,13 +7,18 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - ./pages/about.qmd
 
 format:
   html:
-    theme: cosmo
+    theme: united
     css: styles.css
     toc: true
+    toc-title: Índex
+    toc-location: left
+    number-sections: true
+    code-overflow: wrap
+    highlight-style: arrow
 
 
 

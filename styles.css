@@ -1,1 +1,20 @@
 /* css styles */
+
+.pl,
+select {
+
+    color: rgb(0, 183, 255);
+
+
+    padding: .5vmin;
+    margin: .5vmin;
+}
+
+.pl input {
+
+    width: 20vmin;
+    user-select: none;
+    pointer-events: none;
+
+
+}
