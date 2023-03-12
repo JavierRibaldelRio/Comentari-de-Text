@@ -5,8 +5,8 @@ website:
   title: "Comentari de Text"
   navbar:
     left:
-      - href: index.qmd
-        text: Home
+      - href: pages/Frases.qmd
+        text: Frases Fetes i Locucions
      
 
 format:

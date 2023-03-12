@@ -21,7 +21,7 @@ Abans d'introduir el tema cal fer una breu introducció sobre el text que anem a
 Sintagma nominal de 10 paraules com a màxim que respon a la pregunta: de què tracta el text? Dins no pot tindre verbs conjugats, però si formes personals (infinitiu, gerundi i participi).
 
 <div class="pl">
-Aquest text escrit per <input> al <input> presenta com a tema <input>.
+Aquest text escrit per ___________ al ___________ presenta com a tema ___________.
 </div>
 
 ## Parts Temàtiques
@@ -35,11 +35,11 @@ En l'assaig i l'article d'opinió n'hi ha tres parts: **Introducció, Desenvolup
 <div class="pl">
 Podem dividir el text en les següents parts bàsiques:
 
-La primera part que correspon al primer paràgraf i la idea principal és <input> (l x-y).
+La primera part que correspon al primer paràgraf i la idea principal és ___________ (l x-y).
 
-La segona part que abasta <input> i la idea principal és <input> (l x-y).
+La segona part que abasta ___________ i la idea principal és ___________ (l x-y).
 
-La tercera part que abraça l’últim paràgraf i la idea principal és <input> (l x-y).
+La tercera part que abraça l’últim paràgraf i la idea principal és ___________ (l x-y).
 </div>
 
 ### Conectors per a introduir les línies
@@ -69,12 +69,45 @@ nom periòdic, lloc de publicació, editorial, data de publicació, pàgines d�
 
 <div class="pl">
 
-Aquest text escrit per <input> al diari <input> i publicat el dia  <input> consta de <input> línies distribuïdes en <input> paràgrafs. A més, presenta un títol:<select>
+Aquest text escrit per ___________ al diari ___________ i publicat el dia  ___________ consta de ___________ línies distribuïdes en ___________ paràgrafs. A més, presenta un títol:<select>
 <option>[Tria]</option>
 <option>
 TEMÀTIC car guarda una relació directa amb el tema del text.</option>
 <option>REMÀTIC car no guarda relació amb el tema del text.</option>
 <option> PARCIALMENT TEMÀTIC car guarda relació amb el tema del text però no és una </option>relació completa. </select>
+</div>
+
+# Resum
+Resumir un text és sintetitzar el contingut de manera que es mantinguen les idees
+principals ben ordenades i relacionades, i s’obvien les secundàries, en part o totalment. Així, un text ben resumit ha de conservar intacta la informació essencial, d'una manera objectiva, sense afegir informacions o interpretacions que no apareixien en el text departida. Això no obstant, el resum no ha de ser una suma d'oracions i frases importants extretes del text de partida sinó que el text resumit que resulte de la tria de continguts ha de tenir una coherència i una cohesió pròpies.
+
+## Pases i consells per a l'elaboració d'un resum
+
+- Lectura atenta i comprensiva del text per familiaritzar-se amb el tema i el contingut
+- Segona lextura  pera subratllar paraules clau
+- Reduir extensió de cada paràgraf
+    - Supresió de la informació redundant o secundària
+    - Redacció d'una síntesis cohesionada a partir del subratllat del text original
+- El resum no es un ~~esquema~~, ni un ~~quadre sinòptic~~. La informaciódel text ha de tindre forma de redacció; frases completes i ben enllaçades. A més cal utilitzar connector i signes de puntuació
+- Un bon resumen a de reduir el text una quarta par de l'extensió original. Més curt, aportarà molta poca concreció, i més llarg no serà operatiu.
+
+- No es pot esmentar a l'autor ni al text
+- Extensió de 6 a 10 línies
+- Un paràgraf
+- Objectiu. Ús de la 3r persona i en present
+- No copiar frases literalment del text
+- Han d'apareixer totes les idees principals, però no fa falta que hi aparegen en el mateix ordre. El resum quan més distinct siga de l'original més nota té.-
+
+- No ha de pareixer un telegrama
+- No fer preguntes retòriques
+
+
+<button type="button" class="btn btn-dark" role="link"><a href="pages/resum.html">Més informació i exemples</a></button>
+
+## Plantilla
+
+<div class="pl">
+Un possible resum del text seria: ( punt i a banda, escrivim a la línia de baix)
 </div>
 
 # Tipologia
@@ -211,3 +244,54 @@ Per cada tipologia que observe al text:
 1. Identificar cada tipologia
 2. Localitzar: per línies, per paràgrafs, per parts bàsiques
 3. Justificar amb dos trets: assenyalar exactament què és allò que s'està copiant per a justificar cada tipologia
+
+## Plantilla
+
+<div class="pl">
+S'observen al text diferents tipologies com ara: <br>
+
+La tipologia ___________ en el ______ car (argumenta, descriu, narra,...)_______. Apareix reforçada amb l'ús de _________.
+
+</div>
+
+<hr>
+
+Si observem que una tipologia predomina sobre la resta es pot assenyalar
+
+<div class ="pl">
+
+Malgrat les diferents tipologies presents al text, s'observa un clar domini de la tipologia 
+</div>
+
+## Consideracions depenent del tipus de text
+- **Assaig:** sempre tindrà la tipologia argumentativa i la resta poden trobar-s'hi o no
+- **Article d'opinió:** tindrà tipologia argumentativa i expositiva. S'ha de mesurar de quina hi ha més presència o si estan per igual al text i la resta poden trobar-s'hi o no
+- **Text literari:** tindrà la presència de la tipologia narrativa, o la descriptiva o ambdues sempre i la resta poden trobar-s'hi o no
+
+<!-- Tesis, Estructura Textual y argumentos -->
+<!-- Veus del discurs -->
+
+# Varietat Dialectal
+
+Determinar amb trets solament gramticals a quina varietat de les dues (Oriental / Occidental) pertany el text.
+En cas que demanen un número concret de marques, farem igaul que fem amb la modalització, són 5 marques distintes, no 5 exemples de la mateixa característica. A més, hem d'indicar exactament i amb detall què és el que estem copiant.
+
+
+|VARIETAT ORIENTAL | VARIETAT OCCIDENTAL|
+|---------|--------|
+|En la seua evol|asdfasdfjklas|
+|En la seua evol|asdfasdfjklas|
+|En la seua evol|asdfasdfjklas|
+|En la seua evol|asdfasdfjklas|
+|En la seua evol|asdfasdfjklas|
+|En la seua evol|asdfasdfjklas|
+|En la seua evol|asdfasdfjklas|
+|En la seua evol|asdfasdfjklas|
+|En la seua evol|asdfasdfjklas|
+|En la seua evol|asdfasdfjklas|
+|En la seua evol|asdfasdfjklas|
+|En la seua evol|asdfasdfjklas|
+|En la seua evol|asdfasdfjklas|
+|En la seua evol|asdfasdfjklas|
+|En la seua evol|asdfasdfjklas|
+|En la seua evol|asdfasdfjklas|

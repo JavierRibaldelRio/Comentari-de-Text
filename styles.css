@@ -18,3 +18,15 @@ select {
 
 
 }
+
+
+a {
+
+    text-decoration: none;
+    color: white;
+}
+
+td::first-letter {
+
+    text-transform: uppercase;
+}
