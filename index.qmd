@@ -296,18 +296,69 @@ L'estructura textual d'un text varia en funció de la localització de la tesi d
 L’autor/a del text es valdrà de diferents arguments per tal de reforçar la seua tesi. Els
 diferents arguments ajuden l’autor/a a convéncer el lector.
 
-
-<table>
-<thead>
+### Arguments generals
+<table class="table align-middle table-striped">
+<tbody>
 <tr>
-
-<th> ARGUMENTS GENERALS</th>
+<th>Exemplificació</th>
+<td>L'exemple es pot utilitzar per a fonamentar amb més concreció un argument utilitzat. Escrit en 3a persona
+</td>
 </tr>
-</thead>
-
+<tr>
+<th>Experiència personal</th>
+<td>Però també es pot usar la descripció d'un casconcret o d'una experiència personal com a Experiència personalexemple que es vol generalitzar i estendre a uns altres casos.
+</td>
+</tr>
+<tr>
+<th>Dades o estadístiques</th>
+<td>Les opinions són sempre discutibles, però els fets es consideren inqüestionables. Per això, un recurs eficaç per a convéncer és presentar com a fets inqüestionables determinades informacions. L'ús de xifres o dades estadístiques augmenten l'efecte de realitat i objectivitat
+</td>
+</tr>
+<tr>
+<th>Quantitat</th>
+<td>És un recurs argumentatiu que consisteix a fer referència al gran nombre de persones que donen suport a la idea, al gran nombre de vegades que un fet s'esdevé.
+</td>
+</tr>
+<tr>
+<th>Autoritat</th>
+<td>Consisteix a utilitzar l'opinió d'una persona important, de prestigi reconegut o digna de ser escoltada. Per exemple, s'inclouen citacionsd'estudis científics o d'organismes que donen suport a la tesi defensada per l'autor.
+</td>
+</tr>
+<tr>
+<th>Analogia</th>
+<td>Consisteix a comparar el tema de text amb un altre tema. De vegades, es pot confondre amb un argument d’exemplificació però aquest últim és un exemple sobre el mateix tema que versa el text.
+</td>
+</tr>
+<tr>
+<th>Contraargument</th>
+<td>Consisteix a intentar convéncer el lector aportant idees contràries a la tesi defensada per l’autor.
+</td>
+</tr>
+</tbody>
 <table>
 
+### Arguments temàtics
 
+- Argument de futur
+- Argument de medi ambient
+- Argument de tecnologia
+- Argument de social
+- Argument de ciència
+- Argument de històric
+- Argument de veritat irrefutable
+- Argument de sociolingüístic
+- Argument de moral
+- Argument d'igualtat
+
+Per cada argument he de:
+
+1. Identificar el tipus d'argument
+2. Localitzar-lo (per línies, paràgrafs o parts bàsiques)
+3. Explicar-lo i/o resumir-lo
+
+## Plantilla
+<div class="pl">
+L’estructura textual d’aquest text és ____________car podem observar la tesi de l’autor/a a ____________. Aquesta defén la idea que______________________[explicar amb les teues paraules quina és la tesi de l’autor]. A més, l’autor reforça la seua tesi amb diferents arguments com ara:</div>
 <!-- Veus del discurs -->
 
 # Varietat Dialectal
