@@ -7,7 +7,8 @@ website:
     left:
       - href: pages/Frases.qmd
         text: Frases Fetes i Locucions
-     
+      - href: pages/connectors.qmd
+        text: Connectors
 
 format:
   html:
@@ -19,6 +20,3 @@ format:
     number-sections: true
     code-overflow: wrap
     highlight-style: arrow
-
-
-
