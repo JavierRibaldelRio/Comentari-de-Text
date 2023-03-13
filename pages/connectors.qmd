@@ -1,7 +1,7 @@
 ---
 title: Connectors
 --- 
-# CLASSES DE CONNECTORS:
+# Classes de connectors:
 ## Connectors que funcionen com a organitzadors del text:
 ### Per iniciar l'escrit o començar el text:
 - El motiu d'aquest escrit (d'aquesta carta) és... 
@@ -17,6 +17,7 @@ title: Connectors
 contacte amb vosté és...
 - Ens sap greu comunicar-vos... 
 - Escric aquestes línies per...
+
 ### Per avançar en el text i marcar l'ordre d'exposició:
 - En primer lloc, en segon lloc... per últim.
 - D'una banda.
@@ -39,6 +40,7 @@ contacte amb vosté és...
 - En relació amb el que acabem de dir...
 - Quant a ...
 - Referent a aquesta última qüestió...
+
 ### Per concloure el text
 - Com a conclusió final...
 - De tot això, en podem extreure...
@@ -52,6 +54,7 @@ contacte amb vosté és...
 - Doncs bé, per acabar...
 - Per tant...
 - Així doncs...
+
 ## Connectors organitzadors, que relacionen frases i paràgrafs:
 ### Connectors temporals:
 - En el moment de...
@@ -70,6 +73,7 @@ contacte amb vosté és...
 - Tot seguit
 - A continuació
 - Enacabant...
+
 ### Connectors exemplificadors:
 - Per exemple
 - Per posar un exemple
@@ -78,6 +82,7 @@ contacte amb vosté és...
 - Per il lustrar tot el que diem
 - Com a mostra d'això
 - I ara posarem/ un exemple d'això
+
 ### Connectors per insistir o continuar sobre el mateix punt:
 - A més a més
 - A més
@@ -89,6 +94,7 @@ mateix
 - Així doncs
 - Tot seguit
 - D'altra banda...
+
 ### D'oposició i objecció:
 - Però
 - En canvi
@@ -102,6 +108,7 @@ mateix
 - Al contrari
 - Tanmateix 
 - amb tot i amb això...
+
 ### Connectors que indiquen temps:
 - Abans
 - Ara
@@ -117,6 +124,7 @@ mateix
 - Més endavant
 - A continuació
 - Tot seguit...
+
 ### Connectors que indiquen causa:
 - Perquè
 - Vist que
@@ -129,6 +137,7 @@ mateix
 - Car
 - Atés que
 - Considerant que...
+
 ### Connectors que indiquen conseqüència:
 - Doncs
 - Per tant
@@ -139,6 +148,7 @@ mateix
 - Així és que
 - Per consegüent
 - En conseqüència...
+
 ### Connectors que indiquen condició:
 - A condició que
 - A condició de.
@@ -147,6 +157,7 @@ mateix
 - Només que
 - Amb què
 - Si...
+
 ### Connectors que indiquen finalitat:
 - Per tal que
 - Per tal de
@@ -156,7 +167,7 @@ mateix
 - Amb l'objectiu que
 - Amb l'objectiu de...
 
-# CONSIDERACIONS A TENIR EN COMPTE AMB ELS CONNECTORS:
+# Consideracions a tenir en compte amb els connectors:
 - Cal ser originals i no repetir sempre els mateixos connectors. Això farà el text més atractiu al lector i evitarà la monotonia.
 - Si utilitzem connectors dobles, hem de recordar-nos-en d'incloure sempre les segones parts: 
     - D'una banda... .D'altra banda,... .
