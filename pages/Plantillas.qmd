@@ -1,7 +1,12 @@
+---
+title: "Plantillas"
+---
+
 # Tema
 
 Aquest text escrit per _______al________presenta com a tema________.
 
+ 
 # Parts Temàtiques
 
 Podem dividir el text en les següents parts bàsiques:
@@ -12,7 +17,7 @@ La segona part que abasta ___________ i la idea principal és ___________(l x-y)
 
 La tercera part que abraça l’últim paràgraf i la idea principal és ___________(l x-y).
 
----
+<hr/>
 
 Podem dividir el text en les següents parts bàsiques:
 
@@ -31,7 +36,7 @@ TEMÀTIC car guarda una relació directa amb el tema del text.</option>
 <option>REMÀTIC car no guarda relació amb el tema del text.</option>
 <option> PARCIALMENT TEMÀTIC car guarda relació amb el tema del text però no és una </option>relació completa. </select>
 
----
+<hr/>
 Aquest text escrit per_______al llibre______i publicat per l’editorial______l’any_____i que correspon a les pàgines ______ d’aquest llibre, consta de ______ línies distribuïdes en _______paràgrafs. A més, presenta un títol:
 <select>
 <option>[Tria]</option>
@@ -44,7 +49,7 @@ TEMÀTIC car guarda una relació directa amb el tema del text.</option>
 
 Podem resumir el text de la següent manera: ( punt i a banda, escrivim a la línia de baix).
 
----
+<hr/>
 Un possible resum del text seria: ( punt i a banda, escrivim a la línia de baix).
 
 # Tipologia
@@ -59,7 +64,6 @@ Malgrat les diferents tipologies presents al text, s'observa un clar domini de l
 L’estructura textual d’aquest text és ____________ car podem observar la tesi de l’autor/a a ____________ . Aquesta defén la idea que______________________ [explicar amb les teues paraules quina és la tesi de l’autor]. A més, l’autor reforça la seua tesi amb diferents arguments com ara:
 
 # Veus del Discurs
-## 
 # Varietat Dialectal
 
 Podem adscriure el text a la varietat dialectal _________com s’observa per l’ús de característiques com:

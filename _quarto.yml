@@ -12,6 +12,7 @@ website:
         text: Frases Fetes i Locucions
       - href: pages/connectors.qmd
         text: Connectors
+      - pages/Plantillas.qmd
 
 format:
   html:
