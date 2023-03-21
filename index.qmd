@@ -361,6 +361,120 @@ Per cada argument he de:
 L’estructura textual d’aquest text és ____________car podem observar la tesi de l’autor/a a ____________. Aquesta defén la idea que______________________[explicar amb les teues paraules quina és la tesi de l’autor]. A més, l’autor reforça la seua tesi amb diferents arguments com ara:</div>
 <!-- Veus del discurs -->
 
+# Veus del discurs
+
+La resposta serà diferent depenent del tipus de text: 
+
+## Assaig
+
+Per a un ASSAIG identificarem: 
+
+- Extratextualment
+
+    - **Autor Real:** és la persona qui escriu el text. Aquesta dada és a la cita final. 
+
+    - **Lector Real:** és qui llig el text en eixe moment. Per tant, nosaltres, els alumnes. 
+
+    - **Autor Model:** és la imatge mental que es fa el lector Real de com pot ser la persona qui ha es crit el text (autor real) després d’haver llegit els arguments que planteja al text. 
+
+    - **Lector Model:** és la imatge mental que es fa l’autor real de qui és el millor lector per entendre les idees i els arguments que transmet.
+    
+- Intratextualment
+
+    - **Locutor:** és l’enunciador dins del text. Com que el text no és ficció, el locutor d’un assaig és sempre l’autor real.
+
+    - **Al·locutari:** és el destinatari de l’enunciació dins del text. Si l’assaig no presenta un destinatari concret, l’al·locutari és el lector model. 
+    
+    Si el text té un al·locutari concret, apareixeran referències en el text. 
+
+    - **Enunciador:** és una veu ( intervenció) que apareix al text distinta de la veu del locutor i de l’al·locutari. Aquesta veu intervé de forma oral. Són terceres persones que prenen la paraula i poden parlar en primera persona. Activen una segona enunciació dins el text que, generalment, es manifesta a través del discurs citat. Poden aparéixer o no. Hi ha tres procediments bàsics per introduir la veu d’un enunciador (discurs reportat /citat):  
+    
+        1. Discurs directe. Diàlegs o citacions textuals marcades per mitjans gràfics i sintàctics: verbs de dicció,guions, cometes o cursiva... (Li digué molt clarament: “No vull eixir amb tu” )
+        
+        2. Discurs indirecte. Verb de dicció + conjunció que / si (Li va dir molt clarament que no volia eixir amb ell).
+        
+        3. Discurs indirecte lliure. Es reprodueix un enunciat alié, normalment pensaments o sentiments formulats per un personatge, sense verbs de dicció, ni cometes, amb la transposició de persona verbal (de 1a a 3a) i l’adequació dels elements díctics: Li agradava aquell paisatge. S’imposava a l’anècdota que és l’ésser humà. Era aclaparador. / Ella ho tenia decidit, no eixiria més amb ell. 
+        
+        4. Monòleg interior. El locutor reprodueix el seu pensament; és, alhora, locutor i al·locutari. (Mira, no vol eixir amb mi...I ara què faig?...) 
+    - **Intratext:** és una veu ( intervenció) que apareix al text distinta de la veu del locutor i de l’al·locutari. Aquesta veu intervé de forma escrita.
+
+        Al tractar-se d’un assaig, els enunciadors i els intratexts seran Arguments d’Autoritat. 
+
+### Plantilla
+
+<div class="pl">Pel que fa a les veus del discurs, extratextualment, d’una banda, s’observa l’autor real que és________, a més el lector real som nosaltres, que ara mateix estem fent el comentari del text. D’altra banda, l’autor model és una persona preocupada per_____interessada a ______. Alhora que el lector model és aquell qui comparteix les mateixes inquietuds i preocupacions que l’autor model i és capaç d’entendre el text i la seua enciclopèdia.
+
+Intratextualment, identifiquem el locutor que és ________i coincideix amb l’autor real car aquest no és un text de ficció.
+
+De igual mode, l’al·locutari també coincideix amb el lector model.
+
+*( solament en el cas que tinga al·locutari distint al lector model) Malgrat que l’al·locutari no coincideix amb el lector model car és________. 
+
+S’observa també un enunciador, concretament la veu de _________a la línia ____que amb estil_______(directe o indirecte) comenta que __________________.
+
+S’observa també un intratext, concretament la veu de _________a la línia ____que amb estil_______(directe o indirecte) comenta que __________________.
+</div>
+
+## Text Literari
+
+ Per a un TEXT LITERARI identificarem:
+
+ - Extratextualment 
+
+    - **Autor Real:** és la persona qui escriu el text. Aquesta dada és a la cita final. 
+
+    - **Lector Real:** és qui llig el text en eixe moment. Per tant, nosaltres, els alumnes. 
+    
+- Intratextualment 
+
+    - **Locutor:** és l’enunciador dins del text. Com que el text és de ficció, el locutor d’un text literari és el narrador. 
+
+    - TIPUS DE NARRADOR (s’ha de justificar amb fragments del text): 
+
+        - Intern en 1a persona: 
+
+            - Protagonista. 
+
+            - Monòleg interior
+
+            - Testimoni 
+
+        - Extern en 3a persona: 
+
+            - Omniscient. Ho sap tot del protagonista.
+
+            - Observador extern. Solament narra el que es veu. 
+
+    - **Al·locutari:** és el destinatari de l’enunciació dins del text. Si el text literari no presenta un destinatari concret explícit al text, no té al·locutari i, per tant no posem res.
+
+     **Si el text té un al·locutari concret, apareixeran referències en el text de 2a persona.**
+     
+     - **Enunciador:** és una veu ( intervenció) que apareix al text distinta de la veu del locutor i  de l’al·locutari. Aquesta veu intervé de forma oral. Són terceres persones que prenen la paraula i poden parlar en primera persona. 
+     
+        - Activen una segona enunciació dins el text que, generalment, es manifesta a través del discurs citat. Poden aparéixer o no. Hi ha tres procediments bàsics per introduir la veu d’un enunciador (= discurs reportat /citat)
+
+        1. Discurs directe. Diàlegs o citacions textuals marcades per mitjans gràfics i sintàctics: verbs de dicció,guions, cometes o cursiva... (Li digué molt clarament: “No vull eixir amb tu” ) 
+        
+        2. Discurs indirecte. Verb de dicció + conjunció que / si (Li va dir molt clarament que no volia eixir amb ell). 
+        
+        3. Discurs indirecte lliure. Es reprodueix un enunciat alié, normalment pensaments o sentiments formulats per un personatge, sense verbs de dicció, ni cometes, amb la transposició de persona verbal (de 1a a 3a) i l’adequació dels elements díctics: Li agradava aquell paisatge. S’imposava a l’anècdota que és l’ésser humà. Era aclaparador. / Ella ho tenia decidit, no eixiria més amb ell. 
+        
+        4. Monòleg interior. El locutor reprodueix el seu pensament; és, alhora, locutor i al·locutari. (Mira, no vol eixir amb mi...I ara què faig?...) 
+    - **Intratext:** és una veu ( intervenció) que apareix al text distinta de la veu del locutor i de l’al·locutari. Aquesta veu intervé de forma escrita. 
+
+### Plantilla
+<div class="pl">
+Pel que fa a les veus del discurs, extratextualment, , s’observa l’autor real que és________, a més el lector real som nosaltres, que ara mateix estem fent el comentari del text.
+    
+Intratextualment, identifiquem el locutor que és un narrador_________ (*identificar i justificar el tipus de narrador). Aquest locutor no coincideix amb l’autor real car és un text de ficció.
+    
+A més, l’al·locutari és______ ( solament en cas que en tinga sinó no posem res).
+
+S’observa també un enunciador, concretament la veu de _________a la línia ____que amb estil_______(directe o indirecte) comenta que __________________. 
+
+S’observa també un intratext, concretament la veu de _________a la línia ____que amb estil_______(directe o indirecte) comenta que __________________.
+</div>
+
 # Varietat Dialectal
 
 Determinar amb trets solament gramticals a quina varietat de les dues (Oriental / Occidental) pertany el text.
