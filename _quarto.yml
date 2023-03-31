@@ -6,6 +6,7 @@ project:
 
 website:
   title: "Comentari de Text"
+  favicon: img/ic.png
   navbar:
     left:
       - href: pages/Frases.qmd
