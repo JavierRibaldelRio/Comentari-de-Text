@@ -479,23 +479,65 @@ S’observa també un intratext, concretament la veu de _________a la línia ___
 
 Determinar amb trets solament gramticals a quina varietat de les dues (Oriental / Occidental) pertany el text.
 En cas que demanen un número concret de marques, farem igaul que fem amb la modalització, són 5 marques distintes, no 5 exemples de la mateixa característica. A més, hem d'indicar exactament i amb detall què és el que estem copiant.
+<table class="table table-striped varietat">
+<thead>
+<tr class="header">
+<th>Característica</th>
+<th>VARIETAT ORIENTAL</th>
+<th>VARIETAT OCCIDENTAL</th>
+<th>Definitoria?</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Presència de la n en paraules esdrúixoles llatines plurals</td>
+<td>Es perd la n: *homes*, *imatges*</td>
+<td>Es conserva la *n*: *homens*, *imatgens*</td>
+<td>No</td>
+</tr>
+<tr class="even">
+<td>Desinència de la primera persona de indicatiu</td>
+<td>Desinència amb o o sense desinència *cant*, *canto*</td>
+<td>Desinència amb e: *cante*</td>
+<td>Si</td>
+</tr>
+<tr class="odd">
+<td>Forma dels verbs incoatius [*](#incoatius)</td>
+<td>Present d’indicatiu: *pateix*, Present de subjuntiu: *pateixi*</td>
+<td>Present d’indicatiu: *patix*, Present de subjuntiu: *patisca*</td>
+<td>Si</td>
+</tr>
+<tr class="even">
+<td>Desinència del present de subjuntiu</td>
+<td>Desinència en *i*: *canti*, *cantis*</td>
+<td>Desinència en *e*/*a*: *cante*, *cantes*</td>
+<td>Si</td>
+</tr>
+<tr class="odd">
+<td>Possesius femenins</td>
+<td>No vocalitzats: *seva*, *meva*, *teva*, *seves*, *meves* i *teves*</td>
+<td>Vocalitzats: *seua*, *meua*, *teua*, *seues*, *meues* i *teues*</td>
+<td>Si</td>
+</tr>
+<tr class="even">
+<td>L’us de l’article</td>
+<td>Davant dels noms de persones: *la Fineta*, *En Jaume*</td>
+<td>Solament davant dels noms propis de lloc (topònims): *L’alcúdia de Crespins*</td>
+<td>Si</td>
+</tr>
+<tr class="odd">
+<td>Abús de diminutius</td>
+<td>ø no hi ha</td>
+<td>Abusan: *miqueta*, *poquet*, *nuet*</td>
+<td>Si</td>
+</tr>
+<tr class="even">
+<td>Desinència del imperfecte de subjuntiu</td>
+<td>*-às*, *-és*, *-ís*: *cantàs*, *vingués*, *dormís*</td>
+<td>*-ara*, *-era*, *-ira*: *cantara*, *vinguera*, *dormira*</td>
+<td>Si</td>
+</tr>
+</tbody>
+</table>
 
-
-|VARIETAT ORIENTAL | VARIETAT OCCIDENTAL|
-|---------|--------|
-|En la seua evol|asdfasdfjklas|
-|En la seua evol|asdfasdfjklas|
-|En la seua evol|asdfasdfjklas|
-|En la seua evol|asdfasdfjklas|
-|En la seua evol|asdfasdfjklas|
-|En la seua evol|asdfasdfjklas|
-|En la seua evol|asdfasdfjklas|
-|En la seua evol|asdfasdfjklas|
-|En la seua evol|asdfasdfjklas|
-|En la seua evol|asdfasdfjklas|
-|En la seua evol|asdfasdfjklas|
-|En la seua evol|asdfasdfjklas|
-|En la seua evol|asdfasdfjklas|
-|En la seua evol|asdfasdfjklas|
-|En la seua evol|asdfasdfjklas|
-|En la seua evol|asdfasdfjklas|
+<span id="incoatius">* Els verbs incoatiussón els que es contrueixen amb «x» i nola tenen al lexema</span>
