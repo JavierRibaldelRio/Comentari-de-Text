@@ -464,7 +464,7 @@ S’observa també un intratext, concretament la veu de _________a la línia ___
 
 ### Plantilla
 <div class="pl">
-Pel que fa a les veus del discurs, extratextualment, , s’observa l’autor real que és________, a més el lector real som nosaltres, que ara mateix estem fent el comentari del text.
+Pel que fa a les veus del discurs, extratextualment, s’observa l’autor real que és________, a més el lector real som nosaltres, que ara mateix estem fent el comentari del text.
     
 Intratextualment, identifiquem el locutor que és un narrador_________ (*identificar i justificar el tipus de narrador). Aquest locutor no coincideix amb l’autor real car és un text de ficció.
     
@@ -540,4 +540,6 @@ En cas que demanen un número concret de marques, farem igaul que fem amb la mod
 </tbody>
 </table>
 
-<span id="incoatius">* Els verbs incoatiussón els que es contrueixen amb «x» i nola tenen al lexema</span>
+<span id="incoatius">* Els verbs incoatius són els que es contrueixen amb «x» i nola tenen al lexema</span>
+
+<button type="button" class="btn btn-dark" role="link"><a href="pages/DiferenciesLexic.html">Diferències Lèxiques</a></button>
