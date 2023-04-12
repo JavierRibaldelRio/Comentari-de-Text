@@ -6,8 +6,10 @@ project:
 
 website:
   title: "Comentari de Text"
+
   favicon: img/ic.png
   navbar:
+    logo: img/ic.png
     left:
       - href: pages/Frases.qmd
         text: Frases Fetes i Locucions

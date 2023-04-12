@@ -36,4 +36,4 @@ d'interpretació, perquè aquesta afirmació s'ha de reportar al parer de "la ge
 11. Mala interpretació: no es l'autor el que ho pensa, sinó els defensors de la bicicleta.
 <br/><br/>
 
-<button type="button" class="btn btn-dark" role="link"><a href="../index.html">Retornar a Comentari de Text</a></button>
+<a role="button" class="btn btn-dark" href="../index.html">Retornar a Comentari de Text</a>

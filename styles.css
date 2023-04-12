@@ -42,3 +42,11 @@ a {
 
     color: blue;
 }
+
+
+.btn,
+.navbar-title,
+.btn:hover {
+
+    color: white !important;
+}

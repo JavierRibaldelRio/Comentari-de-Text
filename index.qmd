@@ -84,25 +84,25 @@ principals ben ordenades i relacionades, i s’obvien les secundàries, en part 
 ## Pases i consells per a l'elaboració d'un resum
 
 - Lectura atenta i comprensiva del text per familiaritzar-se amb el tema i el contingut
-- Segona lextura  pera subratllar paraules clau
+- Segona lectura  pera subratllar paraules clau
 - Reduir extensió de cada paràgraf
     - Supresió de la informació redundant o secundària
     - Redacció d'una síntesis cohesionada a partir del subratllat del text original
-- El resum no es un ~~esquema~~, ni un ~~quadre sinòptic~~. La informaciódel text ha de tindre forma de redacció; frases completes i ben enllaçades. A més cal utilitzar connector i signes de puntuació
-- Un bon resumen a de reduir el text una quarta par de l'extensió original. Més curt, aportarà molta poca concreció, i més llarg no serà operatiu.
+- El resum no es un ~~esquema~~, ni un ~~quadre sinòptic~~. La informació del text ha de tindre forma de redacció; frases completes i ben enllaçades. A més cal utilitzar connector i signes de puntuació
+- Un bon resumen a de reduir el text una quarta part de l'extensió original. Més curt, aportarà molta poca concreció, i més llarg no serà operatiu.
 
 - No es pot esmentar a l'autor ni al text
 - Extensió de 6 a 10 línies
 - Un paràgraf
 - Objectiu. Ús de la 3r persona i en present
 - No copiar frases literalment del text
-- Han d'apareixer totes les idees principals, però no fa falta que hi aparegen en el mateix ordre. El resum quan més distinct siga de l'original més nota té.-
+- Han d'apareixer totes les idees principals, però no fa falta que hi aparegen en el mateix ordre. El resum quan més distinct siga de l'original més nota té.
 
 - No ha de pareixer un telegrama
 - No fer preguntes retòriques
 
 
-<button type="button" class="btn btn-dark" role="link"><a href="pages/resum.html">Més informació i exemples</a></button>
+<a type="link" class="btn btn-dark"  href="pages/resum.html">Més informació i exemples</a>
 
 ## Plantilla
 
@@ -131,8 +131,8 @@ Expositiva
 **Justificació** (3 exemples del text mínim):
 
 - Respondre breument a la pregunta: *què esposa?* Resumir breument què es allò que proposa el text
-- L'us de verbs i pronoms en 3a persona
-- L'us de lèxic **no** valoratiu
+- L'ús de verbs i pronoms en 3a persona
+- L'ús de lèxic **no** valoratiu
 - Oracions enunciatives
 - Verbs en indicatiu
 
@@ -155,8 +155,8 @@ Argumentativa</button>
 **Justificació** (3 exemples del text mínim):
 
 - Respondre breument a la pregunta: *què argumenta?* Resumir breument què es allò que proposa el text
-- L'us de verbs i pronoms en 1a persona
-- L'us de lèxic valoratiu
+- L'ús de verbs i pronoms en 1a persona
+- L'ús de lèxic valoratiu
 - Oracions exclamatives, interrogatives, exhortatives, desideratives i dubitatives
 - Verbs en subjuntiu
 - Presencia de tesi i arguments
@@ -182,7 +182,7 @@ Descriptiva</button>
 
 - Respondre breument a la pregunta: *què descriu?* Resumir breument què es allò que proposa el text
 - Abundància d'adjectius propis de la descripció en detriment de verbs d'acció
-- L'us de de recursos literaris com la metàfora, o la comparació
+- L'ús de de recursos literaris com la metàfora, o la comparació
 <br/>
 - Si el text esta en passat:
     - L'ús de l'imperfet que és el verb que s'usa per descriure el pasat
@@ -208,7 +208,7 @@ Narrativa</button>
 
 - Respondre breument a la pregunta: *què descriu?* Resumir breument què es allò que proposa el text
 - Abundància d'adjectius propis de la descripció en detriment de verbs d'acció
-- L'us de de recursos literaris com la metàfora, o la comparació
+- L'ús de de recursos literaris com la metàfora, o la comparació
 <br/>
 - Si el text esta en passat:
     - L'ús del passat simple o passat perifràstic que són els verbs que s'usen per narrament passat
@@ -232,8 +232,8 @@ Conversacional</button>
 **Justificació** (3 exemples del text mínim):
 
 - Respondre breument a les  preguntes: *qui parla?*, *de què?* i *en quin estil?*. Resumir en un sol paràgraf
-- L'us de recursos tipogràfics com les cometes i els guions
-- L'us de preguntes de comprovació de canal, onomatopeies, falques lingüístiques
+- L'ús de recursos tipogràfics com les cometes i els guions
+- L'ús de preguntes de comprovació de canal, onomatopeies, falques lingüístiques
 </div>
 </div>
 </div>
@@ -499,47 +499,52 @@ En cas que demanen un número concret de marques, farem igaul que fem amb la mod
 <td>Desinència de la primera persona de indicatiu</td>
 <td>Desinència amb o o sense desinència *cant*, *canto*</td>
 <td>Desinència amb e: *cante*</td>
-<td>Si</td>
+<td>Sí</td>
 </tr>
 <tr class="odd">
 <td>Forma dels verbs incoatius [*](#incoatius)</td>
 <td>Present d’indicatiu: *pateix*, Present de subjuntiu: *pateixi*</td>
 <td>Present d’indicatiu: *patix*, Present de subjuntiu: *patisca*</td>
-<td>Si</td>
+<td>No</td>
 </tr>
 <tr class="even">
 <td>Desinència del present de subjuntiu</td>
 <td>Desinència en *i*: *canti*, *cantis*</td>
 <td>Desinència en *e*/*a*: *cante*, *cantes*</td>
-<td>Si</td>
+<td>Sí</td>
 </tr>
 <tr class="odd">
 <td>Possesius femenins</td>
 <td>No vocalitzats: *seva*, *meva*, *teva*, *seves*, *meves* i *teves*</td>
 <td>Vocalitzats: *seua*, *meua*, *teua*, *seues*, *meues* i *teues*</td>
-<td>Si</td>
+<td>Sí</td>
+<tr class="odd">
+<td>Grup de demostratius</td>
+<td>Dos graus *aquest* i *aquell*</td>
+<td>Tres graus: *aquest* o ***este***, ***eixe*** i *aquell*</td>
+<td>Sí</td>
 </tr>
 <tr class="even">
-<td>L’us de l’article</td>
+<td>L’ús de l’article</td>
 <td>Davant dels noms de persones: *la Fineta*, *En Jaume*</td>
 <td>Solament davant dels noms propis de lloc (topònims): *L’alcúdia de Crespins*</td>
-<td>Si</td>
+<td>No</td>
 </tr>
 <tr class="odd">
 <td>Abús de diminutius</td>
 <td>ø no hi ha</td>
 <td>Abusan: *miqueta*, *poquet*, *nuet*</td>
-<td>Si</td>
+<td>No</td>
 </tr>
 <tr class="even">
 <td>Desinència del imperfecte de subjuntiu</td>
 <td>*-às*, *-és*, *-ís*: *cantàs*, *vingués*, *dormís*</td>
 <td>*-ara*, *-era*, *-ira*: *cantara*, *vinguera*, *dormira*</td>
-<td>Si</td>
+<td>Sí</td>
 </tr>
 </tbody>
 </table>
 
-<span id="incoatius">* Els verbs incoatius són els que es contrueixen amb «x» i nola tenen al lexema</span>
+<span id="incoatius">* Els verbs incoatius són els que es contrueixen amb «x» i no la tenen al lexema</span>
 
-<button type="button" class="btn btn-dark" role="link"><a href="pages/DiferenciesLexic.html">Diferències Lèxiques</a></button>
+<a type="button" class="btn btn-dark" role="button" href="pages/DiferenciesLexic.html">Diferències Lèxiques</a>
